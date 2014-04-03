@@ -1,0 +1,33 @@
+{
+				"categories" : [{
+								"type":"dentist"
+				},{
+								"type":"gynaecologist"
+				},{
+								"type":"physician"
+				},{
+								"type":"psychiatrist"
+				},{
+								"type":"orthopedic"
+				},{
+								"type":"Cardiologist"
+				},{
+								"type":"sexologist"
+				},{
+								"type":"optometrist"
+				},{
+								"type":"pediatrician"
+				},{
+								"type":"neurologist"
+				},{
+								"type":"dermatologist"
+				},{
+								"type":"urologist"
+				},{
+								"type":"oncologist"
+				
+								
+				
+				}]
+}
+
